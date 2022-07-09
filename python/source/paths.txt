@@ -1,0 +1,2 @@
+/home/sirius/airi_bb/AIRI_Summer2022_3D_BoundBox_Research/python/source/custom_dataset/bottles/video/IMG_1861.MOV
+/home/sirius/airi_bb/AIRI_Summer2022_3D_BoundBox_Research/python/results/mediapipe
